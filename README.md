@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on: Full Stack Dev React & Spring Boot.<br>🤝 Looking to collaborate on: Open source, full-stack, or AI apps.<br>🧠 Need help with: Microservices design & Kubernetes adoption.<br>🌱 Learning: System design, Docker, and AI integration.<br>💬 Ask me about: Project Stuff, User experience, Platform Building.<br>⚡ Fun fact: Built a fake news detector using NLP just for fun!
+🔭 Currently working on: Full Stack Dev React & Spring Boot.<br>🤝 Looking to collaborate on: Open source, full-stack, or AI apps.<br>🧠 Need help with: Microservices design & Kubernetes adoption.<br>🌱 Learning: System design, Docker, and AI integration.<br>💬 Ask me about: Project Stuff, User experience, Platform Building.<br>⚡ Fun fact: FPS Gamer just for fun!
 
 
 ## 🌐 Socials:
